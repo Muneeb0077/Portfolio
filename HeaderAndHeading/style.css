@@ -55,3 +55,142 @@
   top: 6px;
   position: absolute;
 }
+
+#section1 {
+  width: 100%;
+  height: 100%;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 114px;
+  padding-bottom: 114px;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 12px;
+  display: inline-flex;
+  background-image: url('../images/header-shapes\ mobile.png');
+  background-repeat: no-repeat;
+}
+
+#secDiv1 {
+  width: 327px;
+  height: 150px;
+  color: #172b4d;
+  font-size: 40px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  line-height: 52px;
+  word-wrap: break-word;
+}
+
+#secDiv2 {
+  width: 327px;
+  height: 146px;
+  color: #344563;
+  font-size: 16px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  line-height: 24px;
+  word-wrap: break-word;
+}
+
+#secDiv3 {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 16px;
+  display: flex;
+}
+
+#insideSecDiv1 {
+  justify-content: flex-start;
+  align-items: center;
+  gap: 8px;
+  display: inline-flex;
+}
+
+#insideSecDiv2 {
+  color: #7f8cff;
+  font-size: 16px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  line-height: 24px;
+  word-wrap: break-word;
+}
+
+#secDiv4 {
+  width: 170.17px;
+  height: 20px;
+  position: relative;
+}
+
+#insideSecDiv3 {
+  width: 14.17px;
+  height: 20px;
+  left: 156px;
+  top: 0;
+  position: absolute;
+  background: #505f79;
+}
+
+#insideSecDiv4 {
+  width: 20px;
+  height: 16px;
+  left: 79px;
+  top: 2px;
+  position: absolute;
+  background: #505f79;
+}
+
+#insideSecDiv5 {
+  width: 20px;
+  height: 20px;
+  left: 39px;
+  top: 0;
+  position: absolute;
+}
+
+#insideSecDiv6 {
+  width: 12.71px;
+  height: 16.97px;
+  left: 7.29px;
+  top: 3.03px;
+  position: absolute;
+  background: #505f79;
+}
+
+#insideSecDiv7 {
+  width: 4.97px;
+  height: 4.97px;
+  left: 0;
+  top: 0;
+  position: absolute;
+  background: #505f79;
+}
+
+#insideSecDiv8 {
+  width: 4.97px;
+  height: 13.72px;
+  left: 0;
+  top: 6.28px;
+  position: absolute;
+  background: #505f79;
+}
+
+#secDiv5 {
+  width: 17.99px;
+  height: 20px;
+  left: 119px;
+  top: 0;
+  position: absolute;
+  background: #505f79;
+}
+
+#secDiv6 {
+  width: 19.99px;
+  height: 19.96px;
+  left: 0;
+  top: 0;
+  position: absolute;
+  background: #505f79;
+}
