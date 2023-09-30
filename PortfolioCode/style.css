@@ -269,7 +269,6 @@ body {
 
 #sectionAbout {
   width: 375px;
-  height: 580px;
   padding-left: 24px;
   padding-right: 24px;
   padding-top: 114px;
@@ -295,4 +294,8 @@ body {
   word-wrap: break-word;
   margin: 0;
   margin-top: -100px;
+}
+
+#LangList {
+  margin-top: -20px;
 }
