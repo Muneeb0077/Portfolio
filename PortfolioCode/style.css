@@ -355,6 +355,13 @@ body {
   border: 1px #cfd8dc solid;
   margin-left: 19px;
   margin-bottom: 15px;
+  color: #172b4d;
+  font-size: 17px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  line-height: 20px;
+  word-wrap: break-word;
+  padding-left: 15px;
 }
 
 .textArea {
@@ -370,6 +377,8 @@ body {
   font-weight: 400;
   line-height: 24px;
   word-wrap: break-word;
+  padding-top: 15px;
+  padding-left: 15px;
 }
 
 .buttonForm {
@@ -404,10 +413,10 @@ body {
 
 .ec7 {
   margin-left: -40px;
-  margin-bottom: -10px;
+  margin-bottom: -15px;
 }
 
 .shape {
-  margin-bottom: -13px;
+  margin-bottom: -4px;
   margin-left: 115px;
 }
