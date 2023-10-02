@@ -1,5 +1,5 @@
 #nav {
-  width: 375px;
+  max-width: 375px;
   padding-top: 4px;
   padding-bottom: 4px;
   padding-left: 12px;
@@ -57,7 +57,7 @@
 }
 
 #section1 {
-  width: 375px;
+  max-width: 375px;
   padding-left: 24px;
   padding-right: 24px;
   padding-top: 114px;
@@ -123,14 +123,16 @@
 
 body {
   overflow-x: hidden;
+  background-color: #dfe1e6;
 }
 
 .grid-container {
+  padding: 20px;
   display: grid;
   grid-template-columns: 1fr;
   grid-gap: 10px;
   margin-top: 80px;
-  background-color: white;
+  background-color: #dfe1e6;
 }
 
 .card1 {
@@ -268,11 +270,12 @@ body {
 }
 
 #sectionAbout {
-  width: 375px;
+  max-width: 325px;
   padding-left: 24px;
   padding-right: 24px;
   padding-top: 114px;
   padding-bottom: 114px;
+  margin-left: -25px;
   flex-direction: column;
   justify-content: flex-start;
   align-items: flex-start;
@@ -303,8 +306,10 @@ body {
 .ContactForm {
   background-image: url('../images/Contact\ me.png');
   background-repeat: no-repeat;
-  width: 375px;
+  max-width: 375px;
   height: 900px;
+  margin-top: -10px;
+  margin-left: -30px;
 }
 
 #eclipse {
