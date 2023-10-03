@@ -67,7 +67,7 @@
   align-items: flex-start;
   gap: 12px;
   display: inline-flex;
-  background-image: url('./images/header-shapes\ mobile.png');
+  background-image: url('./images/header-shapes mobile.png');
   background-repeat: no-repeat;
   background-color: white;
   border-bottom-left-radius: 25px;
@@ -304,7 +304,7 @@ body {
 }
 
 .ContactForm {
-  background-image: url('./images/Contact\ me.png');
+  background-image: url('./images/Contact me.png');
   background-repeat: no-repeat;
   max-width: 375px;
   height: 900px;
